@@ -1,0 +1,13 @@
+*{
+    box-sizing: border-box;
+}
+
+main{
+    background-color: aqua;
+}
+.barra-lateral{
+    background-color: blue;
+}
+.contenido-principal{
+    background-color: cadetblue;
+}
